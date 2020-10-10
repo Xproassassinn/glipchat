@@ -10,6 +10,8 @@
 * [Contributing](#contributing)
 * [Licence](#licence)
 
+[![Run on Repl.it](https://repl.it/badge/github/Xproassassinn/glipchat)](https://repl.it/github/Xproassassinn/glipchat)
+
 # Overview
 glipchat is a real-time video chatroom application. glipchat is powered by Meteor, with React + Redux + WebRTC on the frontend.
 
